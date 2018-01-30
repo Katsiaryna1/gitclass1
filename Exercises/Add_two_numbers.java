@@ -11,5 +11,6 @@ public class Add_two_numbers {
           y = in.nextFloat();
           z = x + y;
           System.out.println("Sum of entered intergers = "+z);
+          //changed int to float you can use decimal numbers
     }
 }
