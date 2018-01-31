@@ -10,4 +10,4 @@ public class loop {
             System.out.println(kate[i]);
         }
     }
-}
+}//Roman comments
